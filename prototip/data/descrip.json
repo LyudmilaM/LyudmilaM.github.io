@@ -1,0 +1,42 @@
+{
+    "BR": [
+        {
+            "number": "1",
+            "title": "Логотип и фирменный стиль",
+            "descr": "logot"
+        },
+        {
+            "number": "2",
+            "title": "Разработка отдельных носителей",
+            "descr": "style"
+        },
+        {
+            "number": "3",
+            "title": "Дизайн упаковки",
+            "descr": "packagingdesign"
+
+        },
+        {
+            "number": "4",
+            "title": "Концепция рекламной кампании",
+            "descr": "concept"
+        }
+    ],
+    "PR": [
+       {
+            "number": "1",
+            "title": "Визитные карты для руководителей",
+            "descr": "cards"
+        },
+        {
+            "number": "2",
+            "title": "Event-брендинг",
+            "descr": "competitions"
+        },
+        {
+            "number": "3",
+            "title": "Брендирование носителей для horeca",
+            "descr": "branding"
+        }
+    ]
+}
